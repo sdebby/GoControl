@@ -2,6 +2,8 @@
 
 Project start date: 19.10.2024
 
+![Overview picture](https://github.com/sdebby/GoControl/blob/main/media/intro.jpg?raw=true)
+
 ## Overview
 
 Building a cheap GoPro camera remote control, using Open GoPro API
