@@ -1,1 +1,1 @@
-Project gerber files
+Project gerber files for PCB production
